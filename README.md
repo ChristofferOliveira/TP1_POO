@@ -2,7 +2,7 @@
 ## Matéria
 - Programação Orientada a Objetos
 
-## Autore
+## Autor
 - Christoffer de Paula Oliveira
 
 ## Objetivo
